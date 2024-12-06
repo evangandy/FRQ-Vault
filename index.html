@@ -216,10 +216,10 @@
                 }
             });
 
-            populateSelect('yearFilter', Array.from(years).sort());
             populateSelect('difficultyFilter', Array.from(difficulties).sort());
             populateSelect('primaryCategoryFilter', Array.from(primaryCategories).sort());
             populateSelect('secondaryCategoryFilter', Array.from(secondaryCategories).sort());
+            populateSelect('yearFilter', Array.from(years).sort().reverse());
         }
 
         function populateSelect(id, options) {
