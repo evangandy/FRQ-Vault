@@ -1,16 +1,10 @@
 # FRQ-Vault
 
-<a href="https://evangandy.github.io/FRQ-Vault" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-decoration: none; border-radius: 5px;">Visit FRQ Vault</a>
+<a href="https://evangandy.github.io/FRQ-Vault" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-decoration: none; border-radius: 5px; border: 1px solid #007bff;">Visit FRQ Vault</a>
 
 ## Overview
 
 FRQ-Vault is a repository designed to store and manage Free Response Questions (FRQs) for various subjects. This repository aims to provide a centralized location for educators and students to access and contribute to a growing collection of FRQs.
-
-## Accessing the Webpage
-
-You can also access the FRQ-Vault webpage to browse and search for FRQs online. Visit the following URL:
-
-[FRQ-Vault Webpage](https://evangandy.github.io/FRQ-Vault)
 
 ## Features
 
