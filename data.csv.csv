@@ -1,0 +1,61 @@
+Year,Link,Label Link,Q Number,Topic/Class Names,Difficulty,Primary Category,Secondary Category
+2008,https://secure-media.collegeboard.org/apc/ap08_comp_sci_a_frq.pdf,2008 FRQ,Q1,Time/Flight/Trip,MEDIUM,ArrayList Operations,Methods/Control Structures
+2008,https://secure-media.collegeboard.org/apc/ap08_comp_sci_a_frq.pdf,2008 FRQ,Q2,StringCoder,HARD,String Manipulation,ArrayList Operations
+2008,https://secure-media.collegeboard.org/apc/ap08_comp_sci_a_frq.pdf,2008 FRQ,Q3,OpossumCritter,MEDIUM,Class Design,Inheritance & Interfaces
+2008,https://secure-media.collegeboard.org/apc/ap08_comp_sci_a_frq.pdf,2008 FRQ,Q4,Checker/SubstringChecker,MEDIUM,String Manipulation,Inheritance & Interfaces
+2009,https://secure-media.collegeboard.org/apc/ap09_frq_computer_science_a.pdf,2009 FRQ,Q1,NumberCube,MEDIUM,Array Traversal & Manipulation,Methods/Control Structures
+2009,https://secure-media.collegeboard.org/apc/ap09_frq_computer_science_a.pdf,2009 FRQ,Q2,StockpileCritter,HARD,Class Design,Inheritance & Interfaces
+2009,https://secure-media.collegeboard.org/apc/ap09_frq_computer_science_a.pdf,2009 FRQ,Q3,BatteryCharger,MEDIUM,Array Traversal & Manipulation,Methods/Control Structures
+2009,https://secure-media.collegeboard.org/apc/ap09_frq_computer_science_a.pdf,2009 FRQ,Q4,TileGame,HARD,Class Design,ArrayList Operations
+2010,https://secure-media.collegeboard.org/apc/ap10_frq_computer_science_a.pdf,2010 FRQ,Q1,CookieOrder,EASY,ArrayList Operations,Class Design
+2010,https://secure-media.collegeboard.org/apc/ap10_frq_computer_science_a.pdf,2010 FRQ,Q2,APLine,EASY,Class Design,Methods/Control Structures
+2010,https://secure-media.collegeboard.org/apc/ap10_frq_computer_science_a.pdf,2010 FRQ,Q3,Trail,EASY,Array Traversal & Manipulation,-
+2010,https://secure-media.collegeboard.org/apc/ap10_frq_computer_science_a.pdf,2010 FRQ,Q4,GridChecker,MEDIUM,2D Array Traversal & Manipulation,ArrayList Operations
+2011,https://secure-media.collegeboard.org/apc/ap11_frq_comp_sci_a.pdf,2011 FRQ,Q1,Sound,MEDIUM,Array Traversal & Manipulation,-
+2011,https://secure-media.collegeboard.org/apc/ap11_frq_comp_sci_a.pdf,2011 FRQ,Q2,AttractiveCritter,HARD,Class Design,Inheritance & Interfaces
+2011,https://secure-media.collegeboard.org/apc/ap11_frq_comp_sci_a.pdf,2011 FRQ,Q3,FuelDepot,MEDIUM,ArrayList Operations,Class Design
+2011,https://secure-media.collegeboard.org/apc/ap11_frq_comp_sci_a.pdf,2011 FRQ,Q4,RouteCipher,HARD,2D Array Traversal & Manipulation,String Manipulation
+2012,https://secure-media.collegeboard.org/apc/ap_frq_computerscience_12.pdf,2012 FRQ,Q1,ClimbingClub,MEDIUM,ArrayList Operations,-
+2012,https://secure-media.collegeboard.org/apc/ap_frq_computerscience_12.pdf,2012 FRQ,Q2,RetroBug,HARD,Class Design,Inheritance & Interfaces
+2012,https://secure-media.collegeboard.org/apc/ap_frq_computerscience_12.pdf,2012 FRQ,Q3,HorseBarn,EASY,Array Traversal & Manipulation,-
+2012,https://secure-media.collegeboard.org/apc/ap_frq_computerscience_12.pdf,2012 FRQ,Q4,GrayImage,MEDIUM,2D Array Traversal & Manipulation,-
+2013,https://secure-media.collegeboard.org/digitalServices/pdf/ap/apcentral/ap13_frq_comp_sci.pdf,2013 FRQ,Q1,MusicDownloads,MEDIUM,ArrayList Operations,Class Design
+2013,https://secure-media.collegeboard.org/digitalServices/pdf/ap/apcentral/ap13_frq_comp_sci.pdf,2013 FRQ,Q2,TokenPass,HARD,Array Traversal & Manipulation,Methods/Control Structures
+2013,https://secure-media.collegeboard.org/digitalServices/pdf/ap/apcentral/ap13_frq_comp_sci.pdf,2013 FRQ,Q3,Director,MEDIUM,Class Design,Inheritance & Interfaces
+2013,https://secure-media.collegeboard.org/digitalServices/pdf/ap/apcentral/ap13_frq_comp_sci.pdf,2013 FRQ,Q4,SkyView,HARD,2D Array Traversal & Manipulation,-
+2014,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap14_frq_computer_science_a.pdf,2014 FRQ,Q1,WordScramble,MEDIUM,String Manipulation,ArrayList Operations
+2014,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap14_frq_computer_science_a.pdf,2014 FRQ,Q2,Director,MEDIUM,Class Design,Inheritance & Interfaces
+2014,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap14_frq_computer_science_a.pdf,2014 FRQ,Q3,SeatingChart,HARD,2D Array Traversal & Manipulation,Class Design
+2014,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap14_frq_computer_science_a.pdf,2014 FRQ,Q4,Trio/MenuItem,MEDIUM,Class Design,Inheritance & Interfaces
+2015,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap15_frq_computer_science_a.pdf,2015 FRQ,Q1,DiverseArray,MEDIUM,Array Traversal & Manipulation,2D Array Traversal & Manipulation
+2015,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap15_frq_computer_science_a.pdf,2015 FRQ,Q2,HiddenWord,MEDIUM,String Manipulation,Class Design
+2015,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap15_frq_computer_science_a.pdf,2015 FRQ,Q3,SparseArray,HARD,ArrayList Operations,2D Array Traversal & Manipulation
+2015,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap15_frq_computer_science_a.pdf,2015 FRQ,Q4,NumberGroup/Range,MEDIUM,Inheritance & Interfaces,Class Design
+2016,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap16_frq_computer_science_a.pdf,2016 FRQ,Q1,RandomStringChooser,MEDIUM,String Manipulation,Inheritance & Interfaces
+2016,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap16_frq_computer_science_a.pdf,2016 FRQ,Q2,LogMessage/SystemLog,HARD,String Manipulation,ArrayList Operations
+2016,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap16_frq_computer_science_a.pdf,2016 FRQ,Q3,Crossword,HARD,2D Array Traversal & Manipulation,Class Design
+2016,https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap16_frq_computer_science_a.pdf,2016 FRQ,Q4,StringFormatter,HARD,String Manipulation,ArrayList Operations
+2018,https://secure-media.collegeboard.org/apc/ap18-frq-computer-science-a.pdf,2018 FRQ,Q1,FrogSimulation,MEDIUM,Methods/Control Structures,-
+2018,https://secure-media.collegeboard.org/apc/ap18-frq-computer-science-a.pdf,2018 FRQ,Q2,WordPair/WordPairList,MEDIUM,ArrayList Operations,Class Design
+2018,https://secure-media.collegeboard.org/apc/ap18-frq-computer-science-a.pdf,2018 FRQ,Q3,CodeWordChecker,MEDIUM,String Manipulation,Inheritance & Interfaces
+2018,https://secure-media.collegeboard.org/apc/ap18-frq-computer-science-a.pdf,2018 FRQ,Q4,ArrayTester,HARD,Array Traversal & Manipulation,2D Array Traversal & Manipulation
+2019,https://apcentral.collegeboard.org/media/pdf/ap19-frq-computer-science-a.pdf,2019 FRQ,Q1,APCalendar,MEDIUM,Methods/Control Structures,-
+2019,https://apcentral.collegeboard.org/media/pdf/ap19-frq-computer-science-a.pdf,2019 FRQ,Q2,StepTracker,EASY,Class Design,Methods/Control Structures
+2019,https://apcentral.collegeboard.org/media/pdf/ap19-frq-computer-science-a.pdf,2019 FRQ,Q3,Delimiters,HARD,String Manipulation,ArrayList Operations
+2019,https://apcentral.collegeboard.org/media/pdf/ap19-frq-computer-science-a.pdf,2019 FRQ,Q4,LightBoard,MEDIUM,2D Array Traversal & Manipulation,-
+2021,https://apcentral.collegeboard.org/media/pdf/ap21-frq-computer-science-a.pdf,2021 FRQ,Q1,WordMatch,MEDIUM,String Manipulation,Methods/Control Structures
+2021,https://apcentral.collegeboard.org/media/pdf/ap21-frq-computer-science-a.pdf,2021 FRQ,Q2,SingleTable/CombinedTable,MEDIUM,Class Design,Inheritance & Interfaces
+2021,https://apcentral.collegeboard.org/media/pdf/ap21-frq-computer-science-a.pdf,2021 FRQ,Q3,ClubMembers,MEDIUM,ArrayList Operations,Array/ArrayList Searching & Sorting
+2021,https://apcentral.collegeboard.org/media/pdf/ap21-frq-computer-science-a.pdf,2021 FRQ,Q4,ArrayResizer,HARD,2D Array Traversal & Manipulation,-
+2022,https://apcentral.collegeboard.org/media/pdf/ap22-frq-computer-science-a.pdf,2022 FRQ,Q1,Game/Level,MEDIUM,Class Design,Methods/Control Structures
+2022,https://apcentral.collegeboard.org/media/pdf/ap22-frq-computer-science-a.pdf,2022 FRQ,Q2,Book/Textbook,EASY,Class Design,Inheritance & Interfaces
+2022,https://apcentral.collegeboard.org/media/pdf/ap22-frq-computer-science-a.pdf,2022 FRQ,Q3,ReviewAnalysis,MEDIUM,Array Traversal & Manipulation,String Manipulation
+2022,https://apcentral.collegeboard.org/media/pdf/ap22-frq-computer-science-a.pdf,2022 FRQ,Q4,Data,MEDIUM,2D Array Traversal & Manipulation,-
+2023,https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf,2023 FRQ,Q1,AppointmentBook,HARD,Methods/Control Structures,-
+2023,https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf,2023 FRQ,Q2,Sign,MEDIUM,String Manipulation,Class Design
+2023,https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf,2023 FRQ,Q3,WeatherData,MEDIUM,ArrayList Operations,Array/ArrayList Searching & Sorting
+2023,https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf,2023 FRQ,Q4,BoxOfCandy,MEDIUM,2D Array Traversal & Manipulation,-
+2024,https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf,2024 FRQ,Q1,Feeder,MEDIUM,Methods/Control Structures,-
+2024,https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf,2024 FRQ,Q2,Scoreboard,EASY,Class Design,String Manipulation
+2024,https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf,2024 FRQ,Q3,WordChecker,MEDIUM,ArrayList Operations,String Manipulation
+2024,https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf,2024 FRQ,Q4,GridPath,HARD,2D Array Traversal & Manipulation,Class Design
