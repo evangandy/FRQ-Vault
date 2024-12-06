@@ -132,11 +132,11 @@
             <thead>
                 <tr>
                     <th onclick="sortTable(0)">Year</th>
-                    <th onclick="sortTable(3)">Question</th>
-                    <th onclick="sortTable(4)">Topic</th>
-                    <th onclick="sortTable(5)">Difficulty</th>
-                    <th onclick="sortTable(6)">Primary Category</th>
-                    <th onclick="sortTable(7)">Secondary Category</th>
+                    <th onclick="sortTable(1)">Question</th>
+                    <th onclick="sortTable(2)">Topic</th>
+                    <th onclick="sortTable(3)">Difficulty</th>
+                    <th onclick="sortTable(4)">Primary Category</th>
+                    <th onclick="sortTable(5)">Secondary Category</th>
                 </tr>
             </thead>
             <tbody id="tableBody"></tbody>
@@ -216,10 +216,10 @@
                 }
             });
 
+            populateSelect('yearFilter', Array.from(years).sort().reverse());
             populateSelect('difficultyFilter', Array.from(difficulties).sort());
             populateSelect('primaryCategoryFilter', Array.from(primaryCategories).sort());
             populateSelect('secondaryCategoryFilter', Array.from(secondaryCategories).sort());
-            populateSelect('yearFilter', Array.from(years).sort().reverse());
         }
 
         function populateSelect(id, options) {
@@ -270,6 +270,7 @@
 
             updateStats(filteredData);
             displayData(filteredData);
+            sortTable(0, true); // Sort by the first column (Year) in descending order after displaying the data
         }
 
         function displayData(filteredData) {
@@ -290,16 +291,16 @@
             });
         }
 
-        function sortTable(columnIndex) {
+        function sortTable(columnIndex, forceDescending = false) {
             const tbody = document.getElementById('tableBody');
             const rows = Array.from(tbody.getElementsByTagName('tr'));
             const headers = document.getElementsByTagName('th');
             
             // Toggle sort direction
-            if (currentSortColumn === columnIndex) {
+            if (currentSortColumn === columnIndex && !forceDescending) {
                 isAscending = !isAscending;
             } else {
-                isAscending = true;
+                isAscending = !forceDescending;
                 currentSortColumn = columnIndex;
             }
             
